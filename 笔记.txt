@@ -1,0 +1,29 @@
+npm i webpack webpack-cli webpack-dev-server -g
+
+webpack --mode=development  开发
+webpack --mode=production    生产
+
+
+
+css
+       css-loader
+       style-loader
+
+html
+     file-loader
+    html-loader
+    extract-loader
+    
+js 
+    babel-loader
+
+img 
+  file-loader
+     
+
+
+
+
+
+
+
